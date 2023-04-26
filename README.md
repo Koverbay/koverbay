@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello world! 👋
+
+- 📝 Currently finishing up my Master's degree in Computer Science
+- 👩‍💻 Looking to work as an AI Engineer/Dev post-graduation
+- 🏫 I believe AI can be used for good - particularly for accessible, quality education for all!
+- From 🇺🇸, currently in 🇰🇷
 
 <!--
 **Koverbay/koverbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
