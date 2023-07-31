@@ -1,6 +1,7 @@
 ### Hello world! 👋
 
 - 📝 Currently finishing up my Master's degree in Computer Science
+- 📝 EMNLP 2023 Submission currently under review - repo will be made available after final decisions!
 - 👩‍💻 Looking to work as an AI Engineer/Dev post-graduation
 - 🏫 I believe AI can be used for good - particularly for accessible, quality education for all!
 - From 🇺🇸, currently in 🇰🇷
